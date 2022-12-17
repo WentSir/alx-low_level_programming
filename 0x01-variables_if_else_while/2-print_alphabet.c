@@ -4,17 +4,18 @@
 /**
  * main - print alphabets
  *
- * Return: 0
+ * Return: 0 (success)
  */
 int main(void)
 {
-	int ch = 'a';
+	char c;
 
-	while (ch <= '2')
-	{
-		putchar(ch);
-		ch++;
-	}
+	c = 'a';
+	while
+		(c <= 'z') {
+			putchar(c);
+			c++;
+		}
 	putchar('\n');
 	return (0);
 }
