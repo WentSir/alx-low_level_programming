@@ -4,7 +4,9 @@
  * main - tests function that prints integers
  * Return: 0
  */
+
 int main(void)
+
 {
 	int i;
 	i = 0;
