@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_square - prints n squares according 
+ * print_square - prints n squares according
  * @size: the number of square and number of lines
  * Return: empty
  */
